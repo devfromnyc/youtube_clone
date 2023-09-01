@@ -7,7 +7,6 @@ const options = {
   params: {
     maxResults: "50",
     regionCode: "US",
-    order: "date",
   },
   headers: {
     "X-RapidAPI-Key": process.env.REACT_APP_RAPID_API_KEY,
