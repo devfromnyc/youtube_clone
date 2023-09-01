@@ -37,7 +37,7 @@ const Feed = () => {
           Copyright 2022 JSM Media
         </Typography>
       </Box>
-      <Box p={2} sx={{ overFlowY: "auto", height: "90vh", flex: 2 }}>
+      <Box p={2} sx={{ overflowY: "auto", height: "100vh", flex: 2 }}>
         <Typography
           variant="h4"
           fontWeight="bold"
